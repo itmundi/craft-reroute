@@ -11,12 +11,12 @@ class ReroutePlugin extends BasePlugin
 
     public function getVersion()
     {
-        return '1.0.3';
+        return '1.1.0';
     }
 
     public function getDeveloper()
     {
-        return 'Trevor Davis';
+        return 'Trevor Davis & Itmundi';
     }
 
     public function getDeveloperUrl()

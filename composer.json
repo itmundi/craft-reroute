@@ -1,0 +1,26 @@
+{
+    "name": "itmundi/reroute",
+    "description": "Reroute Plugin for Craft CMS",
+    "authors": [
+        {
+            "name": "Trevor Davis",
+            "homepage": "http://trevordavis.net",
+            "role": "Creator"
+        },
+        {
+            "name": "Bob Olde Hampsink",
+            "email": "b.oldehampsink@itmundi.nl",
+            "homepage": "http://github.com/boboldehampsink",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "type": "craft-plugin",
+    "require": {
+        "php": "^5.3",
+        "ext-gd": "*",
+        "ext-mbstring": "*",
+        "ext-mcrypt": "*",
+        "composer/installers": "~1.0",
+    },
+}

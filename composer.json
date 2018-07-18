@@ -1,5 +1,5 @@
 {
-    "name": "itmundi/reroute",
+    "name": "nerds-and-company/reroute",
     "description": "Reroute Plugin for Craft CMS",
     "authors": [
         {
@@ -9,8 +9,8 @@
         },
         {
             "name": "Bob Olde Hampsink",
-            "email": "b.oldehampsink@itmundi.nl",
-            "homepage": "http://github.com/boboldehampsink",
+            "email": "b.oldehampsink@nerds.company",
+            "homepage": "http://github.com/nerds-and-company",
             "role": "Developer"
         }
     ],
